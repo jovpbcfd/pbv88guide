@@ -1,0 +1,152 @@
+ [
+  {
+    "category": "deposit",
+    "urls": [
+      "/how-long-does-it-take-to-process-my-deposit.html",
+      "/how-to-claim-your-bonus-desktop.html",
+      "/how-to-claim-your-bonus-mobile.html",
+      "/how-to-deposit-via-gcash.html",
+      "/panalobet-deposit-issue-mobile.html",
+      "/panalobet-deposit-issue-pc.html",
+      "/what-are-the-minimum-and-maximum-deposit-amounts.html",
+      "/what-currencies-do-you-accept.html",
+      "/what-deposit-method-do-you-accept.html",
+      "/what-happens-if-i-fail-to-complete-my-deposit-transaction-within-48-hours.html",
+      "/what-should-i-do-if-i-am-having-a-problem-making-a-deposit.html",
+      "/what-should-i-do-if-i-am-not-receiving-my-credit-after-deposit-is-done.html"
+    ]
+  },
+  {
+    "category": "my-account",
+    "urls": [
+      "/can-i-change-or-update-my-personal-information.html",
+      "/can-i-have-more-than-one-account.html",
+      "/email-verification.html",
+      "/how-do-i-close-my-account.html",
+      "/how-to-add-a-new-number-directly-in-players-account.html",
+      "/how-to-reset-my-password.html",
+      "/how-to-reset-password-on-my-account.html",
+      "/how-to-unlock-your-account.html",
+      "/mobile-verification.html",
+      "/what-should-i-do-if-i-have-failed-to-log-in-to-my-account.html",
+      "/what-should-i-do-if-i-have-failed-to-verify-my-phone-number-and-emails.html",
+      "/what-should-i-do-if-i-have-forgotten-my-username-or-password.html"
+    ]
+  },
+  {
+    "category": "customer-care",
+    "urls": [
+      "/how-can-i-contact-the-panalobet-customer-service-team.html",
+      "/how-do-i-use-live-chat.html",
+      "/how-long-will-it-take-for-the-customer-service-team-to-reply-to-my-email.html",
+      "/what-do-you-need-my-email-address-for.html",
+      "/what-is-the-email-address-for-the-customer-service-team.html"
+    ]
+  },
+  {
+    "category": "withdrawal",
+    "urls": [
+      "/can-i-cancel-a-withdrawal-request-and-how-do-i-do-it.html",
+      "/can-i-make-a-withdrawal-to-a-bank-registered-under-a-different-name.html",
+      "/how-can-i-make-a-withdrawal.html",
+      "/i-dont-have-any-bonus-is-there-a-requirement-to-be-able-to-withdraw-if-yes-what-is-the-requirement.html",
+      "/panalobet-withdrawal-issue-mobile.html",
+      "/panalobet-withdrawal-issue-pc.html",
+      "/what-are-the-minimum-and-maximum-withdrawal-amounts.html",
+      "/what-identification-do-i-need-to-supply-for-making-a-withdrawal.html"
+    ]
+  },
+  {
+    "category": "technical",
+    "urls": [
+      "/what-should-i-do-if-i-cannot-log-into-my-account.html",
+      "/what-should-i-do-if-i-encounter-problem-with-the-connection.html",
+      "/what-should-i-do-if-i-have-a-problem-with-accessing-the-panalobet-website.html",
+      "/why-cant-i-access-the-panalobet-website.html"
+    ]
+  },
+  {
+    "category": "table",
+    "urls": [
+      "/bpoker.html",
+      "/jili.html",
+      "/km-kingmaker-kingmakers-special-features.html",
+      "/what-kind-of-table-games-are-available-on-panalobet.html"
+    ]
+  },
+  {
+    "category": "sportsbook",
+    "urls": [
+      "/can-i-change-or-cancel-my-bet.html",
+      "/how-can-i-check-my-exchange-betting-history.html",
+      "/placing-a-lay-bet.html",
+      "/sportsbook-how-do-i-create-a-mix-parlay-multiple-bet.html",
+      "/sportsbook-what-is-1x2.html",
+      "/sportsbook-what-is-cash-out.html",
+      "/sportsbook-what-is-handicap.html",
+      "/sportsbook-what-is-outright.html",
+      "/sportsbook-what-is-virtual-sports.html",
+      "/the-most-popular-cricket-markets.html",
+      "/what-are-the-minimum-and-maximum-betting-amounts.html",
+      "/what-does-accept-at-any-odds-mean.html",
+      "/what-does-the-terms-back-and-lay-betting-in-betting-exchange-mean.html",
+      "/what-is-a-bet-id.html",
+      "/what-is-a-fancy-bet.html",
+      "/what-is-a-premium-bet.html",
+      "/what-is-kabaddi.html",
+      "/what-is-the-difference-between-bookmaker-betting-exchange.html"
+    ]
+  },
+  {
+    "category": "casino",
+    "urls": [
+      "/can-i-get-a-refund-if-i-make-a-wrong-bet.html",
+      "/how-can-i-know-that-the-live-casino-games-are-streamed-in-real-time.html",
+      "/is-there-any-limitation-on-the-minimum-and-maximum-bet-limits-in-each-live-casino-platform.html",
+      "/what-happens-if-i-disconnect-from-a-game.html",
+      "/what-is-andar-bahar-only-available-on-mobile.html",
+      "/what-is-baccarat.html",
+      "/what-is-dragon-tiger.html",
+      "/what-is-roulette.html",
+      "/what-is-sic-bo.html",
+      "/what-is-teen-patti-only-available-on-mobile.html",
+      "/what-kind-of-live-casino-games-are-available-on-panalobet.html",
+      "/what-should-i-do-in-case-of-an-error-or-dispute.html"
+    ]
+  },
+  {
+    "category": "others",
+    "urls": [
+      "/how-can-i-be-an-affiliate-of-panalobet.html",
+      "/how-to-claim-pg-free-spins.html",
+      "/how-to-claim-promo-code.html",
+      "/how-to-create-affiliate-account.html",
+      "/how-to-join-the-new-referral-program.html",
+      "/how-to-refer-a-friend-to-play-with-panalobet.html",
+      "/is-it-legal-for-me-to-bet.html",
+      "/what-are-the-games-eligible-for-jili-free-spin.html",
+      "/what-is-awc-game-hall.html",
+      "/why-certain-games-is-not-calculated-on-my-total-turnover.html"
+    ]
+  },
+  {
+    "category": "panalobet-app",
+    "urls": [
+      "/faqs.html",
+      "/how-to-set-up-biometics-log-in.html",
+      "/how-to-setup-biometric-the-first-time-in-panalobet-app.html",
+      "/how-to-unlock-your-account.html",
+       "/how-to-download-panalobet-app.html"
+    ]
+  },
+  {
+    "category": "slots",
+    "urls": [
+      "/what-does-payline-mean.html",
+      "/what-happens-if-i-disconnect-from-a-game-2.html",
+      "/what-is-rng-and-how-do-they-work.html",
+      "/what-is-the-wagering-requirement.html",
+      "/what-slot-games-does-panalobet-provide.html"
+    ]
+  }
+]

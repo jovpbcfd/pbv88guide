@@ -1,0 +1,86 @@
+#faq-page main  h1 {
+	text-wrap:wrap;
+}
+
+#faq-page ol {
+	margin-top:1.5rem;
+}
+
+#faq-page ol li {
+    margin-block: 1rem;
+}
+
+#related-posts li  {
+	margin-bottom: 1rem;
+}
+
+
+#related-posts h4 {
+	font-size:1.8rem;
+	margin-top:5rem;
+	margin-bottom:1rem;
+}
+
+
+
+#related-posts li a {
+	color: var(--text-color);
+
+}
+
+#related-posts li a::first-letter {
+	text-transform: uppercase;
+}
+
+
+#yt-video {
+	 width: 100%;          
+    aspect-ratio: 16 / 9; 
+}
+
+
+#coming-soon {
+	    aspect-ratio: 16 / 9;
+    object-fit: cover;
+}
+
+
+
+#tut-video {
+ position: relative;
+width: 100%;
+	aspect-ratio: 16 / 9;
+	overflow: hidden;
+
+}
+
+#tut-video video {
+	  position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+}
+
+
+
+#post-related li  {
+	margin-bottom: 1rem;
+}
+
+#post-related h4 {
+	font-size:1.8rem;
+	margin-top:5rem;
+	margin-bottom:1rem;
+}
+
+
+
+#post-related li a {
+	color: var(--text-color);
+
+}
+
+#post-related li a::first-letter {
+	text-transform: uppercase;
+}
